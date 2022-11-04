@@ -6,3 +6,4 @@ Embedded Systems project based on ATmega32 Microcontroller in Embedded Systems P
 • MCAL drivers which are DIO, TIMERS, and INTERRUPTS, and ECUAL drivers which are LED and BUTTON were implemented from scratch.
 • The project is developed using the full static architecture and follows the SOLID principles.
 • The system consists of 6 LEDs, a push button, and AVR ATmega32 Microcontroller
+• The project was developed using Eclipse IDE and simulated using Proteus Simulator

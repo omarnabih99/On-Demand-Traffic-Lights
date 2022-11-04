@@ -8,3 +8,5 @@ Embedded Systems project based on ATmega32 Microcontroller in Embedded Systems P
 • The system consists of 6 LEDs, a push button, and AVR ATmega32 Microcontroller
 • The project was developed using Eclipse IDE and simulated using Proteus Simulator
 ![Screenshot 2022-11-04 155348](https://user-images.githubusercontent.com/70335125/199989436-186b3c97-2ba4-4616-ba33-47b7c499d7f8.png)
+• The image below explains the file structure of the whole project 
+![Project Explorer](https://user-images.githubusercontent.com/70335125/199995647-3e7b4231-2480-495f-af32-48a9d50f98d4.png)

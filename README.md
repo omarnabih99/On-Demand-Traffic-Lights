@@ -7,6 +7,7 @@ Embedded Systems project based on ATmega32 Microcontroller in Embedded Systems P
 • The project is developed using the full static architecture and follows the SOLID principles.
 • The system consists of 6 LEDs, a push button, and AVR ATmega32 Microcontroller
 • The project was developed using Eclipse IDE and simulated using Proteus Simulator
+
 • The image below explains the file structure of the whole project 
 
 ![Project Explorer](https://user-images.githubusercontent.com/70335125/199995647-3e7b4231-2480-495f-af32-48a9d50f98d4.png)

@@ -1,5 +1,5 @@
 # On-Demand-Traffic-Lights
-Embedded Systems project based on ATmega32 Microcontroller in Embedded Systems Professional track provided by Udacity and EGYFWD
+Embedded Systems project based on ATmega32 Microcontroller in Embedded Systems Professional track provided by Udacity and egfwd
 
 • Traffic lights normally consist of three signals, transmitting meaning to drivers and riders through colors and symbols including arrows and bicycles.
 
